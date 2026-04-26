@@ -74,7 +74,7 @@ public class Ruan {
 
 ---
 
-## 🎯 Objetivos para 2025
+## 🎯 Objetivos para 2026
 
 - [x] Iniciar os estudos em Java
 - [x] Aprender fundamentos — tipos primitivos, condicionais, loops e arrays
