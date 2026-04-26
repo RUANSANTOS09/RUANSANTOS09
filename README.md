@@ -1,6 +1,6 @@
 # 👩🏻‍💻 RUANSANTOS09
 
-**`Futuro Desenvoador Back-End`**
+**`Futuro Desenvolvedor Back-End`**
 <div align="center">
   <h1>Olá, eu sou Ruan Santos Sacramento 👋</h1>
   <p><em>Desenvolvedor em formação | Apaixonado por tecnologia e software</em></p>
