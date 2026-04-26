@@ -87,11 +87,9 @@ public class Ruan {
 
 <div align="center">
   <em>Feito com ☕ e muito estudo — Bahia, Brasil 🇧🇷</em>
+  
 </div>
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=RUANSANTOS09&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
+
+
 
 </p>
