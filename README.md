@@ -31,24 +31,6 @@
 
 ---
 
-## 📚 Atualmente aprendendo
-
-```java
-public class Ruan {
-
-    String foco        = "Maratona Java — DevDojo Academy";
-    String proximoAlvo = "Orientação a Objetos e Java Core";
-    String objetivo    = "Desenvolvedor Java Junior";
-    String estado      = "Bahia, Brasil 🇧🇷";
-
-    public String getStatus() {
-        return "Estudando todos os dias ☕";
-    }
-}
-```
-
----
-
 ## 📊 Estatísticas
 
 <div align="center">
@@ -71,17 +53,6 @@ public class Ruan {
     src="https://github-readme-streak-stats.herokuapp.com/?user=RUANSANTOS09&theme=tokyonight&locale=pt_br"
   />
 </div>
-
----
-
-## 🎯 Objetivos para 2026
-
-- [x] Iniciar os estudos em Java
-- [x] Aprender fundamentos — tipos primitivos, condicionais, loops e arrays
-- [ ] Concluir o módulo de Orientação a Objetos
-- [ ] Aprender sobre coleções, streams e lambdas
-- [ ] Construir meu primeiro projeto pessoal em Java
-- [ ] Conquistar minha primeira oportunidade profissional
 
 ---
 
