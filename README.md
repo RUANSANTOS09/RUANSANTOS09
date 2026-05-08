@@ -19,9 +19,8 @@
 
 ## 🧑‍💻 Sobre mim
 
-- 🎓 Concluí o ensino médio no **Colégio Estadual de Tempo Integral Polivalente de Santo Estevão**
 - 🌎 Natural da **Bahia, Brasil**
-- ☕ Atualmente estudando **Java** — Maratona Java (DevDojo Academy)
+- Atualmente estudando Python — foco em desenvolvimento Back-End
 - 💡 Apaixonado por tecnologia e pela área de **desenvolvimento de software**
 - 🚀 Em busca da minha primeira oportunidade como **Desenvolvedor Junior**
 
