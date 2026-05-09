@@ -45,7 +45,7 @@
 
 <div align="center">
   <img 
-    alt="GitHub Stats" 
+    alt="GitHub Stats." 
     height="200" 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=RUANSANTOS09&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
@@ -59,7 +59,7 @@
 
 <div align="center">
   <img 
-    alt="GitHub Streak" 
+    alt="GitHub Streak." 
     src="https://github-readme-streak-stats.herokuapp.com/?user=RUANSANTOS09&theme=tokyonight&locale=pt_br"
   />
 </div>
