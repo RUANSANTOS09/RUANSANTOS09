@@ -1,6 +1,6 @@
 # 👩🏻‍💻 RUANSANTOS09
 
-**`Futuro Desenvolvedor Back-End`**
+**`Futuro Engenheiro de Dados`**
 <div align="center">
   <h1>Olá, eu sou Ruan 👋</h1>
   <p align="center">
