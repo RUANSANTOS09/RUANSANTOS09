@@ -21,8 +21,8 @@
 
 - 🌎 Natural da **Bahia, Brasil**
 - Atualmente estudando Python — foco em desenvolvimento Back-End
-- 💡 Apaixonado por tecnologia e pela área de **desenvolvimento de software**
-- 🚀 Em busca da minha primeira oportunidade como **Desenvolvedor Júnior**
+- 💡 Apaixonado por tecnologia e pela área de **dados**
+- 🚀 Em busca da minha primeira oportunidade como **Engenheiro de Dados Júnior**
 
 ---
 
