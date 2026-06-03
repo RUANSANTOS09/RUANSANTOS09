@@ -6,13 +6,13 @@
   <p align="center">
   <a href="https://github.com/RUANSANTOS09" target="_blank">
     <img
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2400&pause=900&repeat=true&center=true&vCenter=true&width=1200&height=45&color=60A5FA&lines=%E2%80%A2+Desenvolvedor+Python+%E2%80%A2%3B+altomation+%E2%80%A2+Webscraping+%E2%80%A2+API+%E2%80%A2+Git%3B+obrigado+pela+atencao"
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2400&pause=900&repeat=true&center=true&vCenter=true&width=1200&height=45&color=60A5FA&lines=%E2%80%A2+Engenheiro+de+Dados+%E2%80%A2%3B+altomation+%E2%80%A2+Webscraping+%E2%80%A2+API+%E2%80%A2+Git%3B+obrigado+pela+atencao"
       alt="Ruan — tecnologias e projetos"
     />
   </a>
 </p>
 
-  <p><em>Desenvolvedor em formação | Apaixonado por tecnologia e software</em></p>
+  <p><em>Engenheiro de Dados em formação | Apaixonado por tecnologia e dados</em></p>
 </div>
 
 ---
@@ -20,7 +20,7 @@
 ## 🧑‍💻 Sobre mim
 
 - 🌎 Natural da **Bahia, Brasil**
-- Atualmente estudando Python — foco em desenvolvimento Back-End
+- Atualmente estudando Python — foco em Dados
 - 💡 Apaixonado por tecnologia e pela área de **dados**
 - 🚀 Em busca da minha primeira oportunidade como **Engenheiro de Dados Júnior**
 
