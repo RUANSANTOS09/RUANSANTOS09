@@ -2,7 +2,7 @@
 
 **`Futuro Engenheiro de Dados`**
 <div align="center">
-  <h1>Olá, eu sou Ruan 👋</h1>
+  <h1>Hi, I'm Ruan 👋</h1>
   <p align="center">
   <a href="https://github.com/RUANSANTOS09" target="_blank">
     <img
@@ -17,12 +17,14 @@
 
 ---
 
-## 🧑‍💻 Sobre mim
+## 🧑‍💻 About Me
 
-- 🌎 Natural da **Bahia, Brasil**
-- Atualmente estudando Python — foco em Dados
-- 💡 Apaixonado por tecnologia e pela área de **dados**
-- 🚀 Em busca da minha primeira oportunidade como **Engenheiro de Dados Júnior**
+• 🇧🇷 Brazilian
+• 📍 Bahia, Brazil
+• 📚 Computer Science Student
+• 📊 Future Data Engineer
+• 🐍 Learning Python, SQL and Data Engineering
+• 🚀 Always building projects and learning new technologies
 
 ---
 
