@@ -21,7 +21,6 @@
 
 - 🇧🇷 Brazilian
 - 📍 Bahia, Brazil
-- 📚 Computer Science Student
 - 📊 Future Data Engineer
 - 🐍 Learning Python, SQL and Data Engineering
 - 🚀 Always building projects and learning new technologies
