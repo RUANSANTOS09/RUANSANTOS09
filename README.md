@@ -34,6 +34,7 @@
     <img src="https://skillicons.dev/icons?i=python,github,md,mysql" />
   </a>
 </p>
+
 ---
 ## 📊 Estatísticas
 
